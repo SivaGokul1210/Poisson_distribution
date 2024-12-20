@@ -1,4 +1,8 @@
 # Fitting Poisson  distribution
+# EX no: 02
+# DATE :05/10/2024
+# NAME:GOKUL S
+#  REG NO : 24005282
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
